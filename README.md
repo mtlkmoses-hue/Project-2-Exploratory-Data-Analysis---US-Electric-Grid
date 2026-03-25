@@ -31,8 +31,7 @@ The dataset used for this project is included in this repository.
 3. Run all cells to reproduce the analysis and visualizations.
 
 ## Tableau Dashboard
-Interactive dashboard available here:
-(https://public.tableau.com/authoring/ElectricityGridDisturbanceDashboard/Dashboard1/Dashboard%201%20(2)#1)
+Interactive dashboard available here: (https://public.tableau.com/authoring/ElectricityGridDisturbanceDashboard/Dashboard1#1)
 
 ## Tools Used
 - Python
