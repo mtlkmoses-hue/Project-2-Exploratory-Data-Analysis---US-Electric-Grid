@@ -32,7 +32,7 @@ The dataset used for this project is included in this repository.
 
 ## Tableau Dashboard
 Interactive dashboard available here:
-https://public.tableau.com/authoring/ElectricityGridDisturbanceDashboard/Dashboard1#1
+(https://public.tableau.com/authoring/ElectricityGridDisturbanceDashboard/Dashboard1/Dashboard%201%20(2)#1)
 
 ## Tools Used
 - Python
